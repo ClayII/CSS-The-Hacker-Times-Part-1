@@ -1,1 +1,70 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+
+h1 {
+    text-align: center;
+    margin: 0;
+    font-size: 2.5em;
+    font-family:'Abril Fatface', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.newspaper-container{
+    /* display: inline-block; */
+    margin: 3em auto;
+    width: 900px;
+    padding: 1em;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px #ddd;
+    background: #fff;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+}
+
+li{
+    display: inline-block;
+    padding: 0 0.5em;
+}
+
+nav {
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    text-align: center;
+    position: sticky;
+    background: white;
+    margin: 1em 0;
+    padding: 5px 0;
+    top: 0;
+}
+
+a{
+    color: #777;
+    font-size: 1em;
+    text-decoration: none;
+}
+
+main h2 {
+    font-family: 'Roboto Slab', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 0;
+  }
+  main h5 {
+    font-family: 'Abril Fatface', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: crimson;
+    margin-top: 0.5em;
+  }
+  main img {
+    width: 100%;
+  }
+
+  body{
+    background: #eee;
+  }
+
+  p{
+    font-family: 'Source Sans', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  h4{
+  
+  }
